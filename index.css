@@ -1,0 +1,24 @@
+.Add
+table,th,tr{
+  border: 1px solid blue;
+  margin: 500px;
+  
+  text-align: right;
+}
+
+.data
+table, th, td {
+  border: 1px solid purple;
+  margin:20px
+}
+.td_button{
+border: 0px solid black;
+/* margin: auto; */
+background-color: aqua;
+text-emphasis-color: black;
+}
+.Btn{
+border: 0px;
+margin-top: 20px;
+margin-left: 720px;
+}
